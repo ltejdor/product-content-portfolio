@@ -54,4 +54,3 @@ Business content gets the same discipline as technical documentation:
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/ltejdor)
-- [Technical writing portfolio](https://github.com/ltejdor/technical-writing-portfolio)

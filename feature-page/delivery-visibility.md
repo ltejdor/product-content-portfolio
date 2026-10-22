@@ -67,5 +67,5 @@ This is an illustrative scenario. Your results depend on your customers' app ado
 
 ## Next step
 
-- **For your developers:** the [webhooks guide](https://github.com/ltejdor/technical-writing-portfolio/tree/main/webhooks) includes a working example they can run in five minutes.
+- **For your developers:** the [webhooks guide](https://github.com/ltejdor/technical-writing-portfolio/tree/main/webhooks) explains every detail, and the [interactive playground](https://ltejdor.github.io/technical-writing-portfolio/playground/#webhooks) shows it working in a minute.
 - **For you:** ask your account manager for a Delivery Insights demo with your own sandbox data.

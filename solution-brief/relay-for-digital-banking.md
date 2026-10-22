@@ -40,7 +40,7 @@ Relay is designed so that the integration is the smallest part of the project.
 - **A sandbox from day one.** Your teams test every notification end to end without reaching real customers.
 - **Real-time results.** Relay tells your systems what happened to each notification through webhooks, so you don't have to keep asking.
 
-Your developers can read the [API reference](https://github.com/ltejdor/technical-writing-portfolio/tree/main/api-reference) and try it against a mock server before the first meeting.
+Your developers can read the [API reference](https://github.com/ltejdor/technical-writing-portfolio/tree/main/api-reference) and anyone on your team can see Relay at work in the [interactive playground](https://ltejdor.github.io/technical-writing-portfolio/playground/) before the first meeting.
 
 ## Built for regulated banking
 
